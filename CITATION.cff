@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite the paper."
+title: "MIYOG: A Trust-Separated Architecture for Computational Discovery in Finite Formal Worlds"
+authors:
+  - family-names: "Sai Krishnan"
+    given-names: "Amogh"
+    affiliation: "Independent researcher"
+date-released: "2026-11-07"
+preferred-citation:
+  type: article
+  title: "MIYOG: A Trust-Separated Architecture for Computational Discovery in Finite Formal Worlds"
+  authors:
+    - family-names: "Sai Krishnan"
+      given-names: "Amogh"
+  year: 2026
+  notes: "arXiv identifier to be added on publication"
